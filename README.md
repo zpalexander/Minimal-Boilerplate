@@ -26,7 +26,6 @@ quick front-end demos without having to set up any web documents beforehand.
   older browsers.
 * Apache server caching, compression, and other configuration defaults for
   Grade-A performance.
-* Cross-domain Ajax and Flash.
 * "Delete-key friendly." Easy to strip out parts you don't need.
 * Extensive inline and accompanying documentation.
 
