@@ -260,9 +260,22 @@ textarea {
 
 
 
+/* ==========================================================================
+   Author's custom media queries
+   ========================================================================== */
 
 
+@media only screen and (min-width: 600px) {
+
+}
 
 
+@media only screen and (min-width: 960px) {
 
+}
+
+
+@media only screen and (min-width: 1280px) {
+
+}
 
